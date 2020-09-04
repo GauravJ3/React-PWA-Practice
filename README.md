@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Check the live app here :- 
 https://blissful-lamport-29e21f.netlify.app/
 
@@ -73,4 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
->>>>>>> a508c1a... First Commit
+
