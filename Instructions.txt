@@ -1,0 +1,27 @@
+1. npx create-react-app ./
+  -> Create a react app in the current folder.
+
+2. Delete the src folder. 
+
+3. npm install --save axios -> to make get req for weather application for fetching adata
+
+4. Learn about event handling in react - Event Handling Video: 
+https://www.youtube.com/watch?v=xHVm5qhaXWk
+
+5. if we manually do export const function () => { };
+	-> we need to import it using 
+	-> import { function } from './api/function';
+6. If we do function () => {}
+	exoprt defualt funcion;
+	no need to explicitly import this way -> using curly braces
+
+7. In react {any_elemnt.main && (
+		const a = "hello world";
+		someThingToExecute
+		)};
+	-> If any_elent is there/exists then '&&' -> in JS it means to execute the thing next to it. 
+
+8. In activation - remove all previous caches and add the new one
+
+9. Deploy using netlify - drag and drop
+	- first do make a build of it -> npm run build
